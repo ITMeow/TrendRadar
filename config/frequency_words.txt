@@ -1,9 +1,7 @@
-DeepSeek
-梁文锋
-
 谷歌
 google
 gemini
+nano banana
 
 chatgpt
 openai
@@ -15,7 +13,16 @@ claude code
 AI Agent
 agent
 
-金价
+DeepSeek
+Kimi
+Qwen
 
+llm
+大语言模型
+多模态大模型
+Multi Large Language Model
+
+
+金价
 黄金
 +价格
