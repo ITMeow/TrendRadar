@@ -3,12 +3,16 @@ google
 gemini
 nano banana
 
+nano banana pro
++prompt
+
 chatgpt
 openai
 
 anthropic
 claude
 claude code
+claude skills
 
 AI Agent
 agent
@@ -22,7 +26,7 @@ llm
 多模态大模型
 Multi Large Language Model
 
-
-金价
-黄金
-+价格
+副业
+AI工具
+side projects
+AI Saas
