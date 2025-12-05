@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T20:19:59.931013+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-12-05T21:26:18.980550+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时26分]"
         },
         {
           "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
