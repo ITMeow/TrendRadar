@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T18:10:24.901486+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-12-06T19:02:53.586837+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时37分 ~ 18时10分]"
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 19时02分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -26,9 +27,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时02分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时37分 ~ 18时10分]"
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 19时02分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
