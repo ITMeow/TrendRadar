@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T08:51:38.849049+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T10:51:43.053086+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,23 @@
       ]
     },
     {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：Anthropic正在商谈收购一家开发者工具初创公司。",
+          "url": "https://flash.jin10.com/detail/20251207085000138800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 1,
       "titles": [
@@ -32,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时51分]"
         }
       ]
     }
