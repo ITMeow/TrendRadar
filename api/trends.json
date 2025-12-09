@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T10:31:16.472410+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-09T11:45:24.942525+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时45分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时45分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -40,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时45分]"
         }
       ]
     }
