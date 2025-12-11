@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T21:32:37.701691+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-11T22:14:26.320239+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时47分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[08时47分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -56,7 +56,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
