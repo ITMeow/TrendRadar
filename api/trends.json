@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:19:32.801192+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2025-12-12T21:28:34.994362+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 21时28分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -117,8 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时46分 ~ 20时19分]"
+          "appearance_count": 15,
+          "time_info": "[10时46分 ~ 21时28分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -151,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 21时28分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
