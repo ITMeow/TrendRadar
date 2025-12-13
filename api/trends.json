@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:11:04.575971+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2025-12-13T14:15:21.578322+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时11分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时15分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
