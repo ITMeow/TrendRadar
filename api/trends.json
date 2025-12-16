@@ -1,39 +1,22 @@
 {
-  "generated_at": "2025-12-15T22:15:22.777088+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-12-16T08:47:28.351232+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini nano banana",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "传联发科拿下两代谷歌TPU定制大单",
-          "url": "https://flash.jin10.com/detail/20251215105959893800",
-          "source": "金十数据",
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一手好牌打稀烂,deepseek成弃子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
+          "time_info": "08时47分"
         }
       ]
     }
