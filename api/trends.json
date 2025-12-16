@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-16T18:13:19.986815+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2025-12-16T19:10:45.663062+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 2,
       "titles": [
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时10分]"
+        },
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时17分 ~ 16时16分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
         }
       ]
     },
