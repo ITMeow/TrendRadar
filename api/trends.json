@@ -1,136 +1,22 @@
 {
-  "generated_at": "2025-12-17T22:12:51.872724+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2025-12-18T08:43:23.403633+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251217102148765800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
-          "url": "https://wallstreetcn.com/livenews/3022308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时12分]"
-        },
-        {
-          "title": "消息称OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。OpenAI还与亚马逊讨论了商业合作事宜。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3022066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时48分]"
-        },
-        {
-          "title": "OpenAI发布GPT Image1.5",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
-          "url": "https://flash.jin10.com/detail/20251217110034700800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "OpenAI科学家姚顺雨任腾讯首席AI科学家。",
-          "url": "https://wallstreetcn.com/livenews/3022385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
-          "url": "https://wallstreetcn.com/livenews/3022400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
-          "url": "https://www.zhihu.com/question/1970631480595190298",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 1,
       "titles": [
         {
-          "title": "Hut 8盘前大涨，与Anthropic达成70亿美元人工智能基础设施交易",
-          "url": "https://wallstreetcn.com/livenews/3022402",
+          "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时43分"
         }
       ]
     }
