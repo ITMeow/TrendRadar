@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:14:36.309532+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-18T14:17:10.389239+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 14时17分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时49分 ~ 12时24分]"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -46,7 +57,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -58,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
