@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:50:14.924089+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-12-18T12:24:35.730069+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 12时24分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 12时24分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -37,7 +38,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         }
