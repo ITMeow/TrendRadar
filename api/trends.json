@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:17:07.878618+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2025-12-18T18:12:25.761988+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -116,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时12分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
@@ -163,11 +163,12 @@
           "url": "https://www.zhihu.com/question/1984549559230289347",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时12分]"
         }
       ]
     },
