@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T17:15:06.664697+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-12-19T18:12:36.891359+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时12分]"
         },
         {
           "title": "新华社：2025“年度字词”揭晓，年度国内词为“深度求索（DeepSeek）",
