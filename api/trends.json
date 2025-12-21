@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:11:05.785133+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-12-21T16:13:39.106882+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
             7,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 15时11分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 16时13分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -87,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 16时13分]"
         }
       ]
     },
@@ -111,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 15时11分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 16时13分]"
         }
       ]
     }
