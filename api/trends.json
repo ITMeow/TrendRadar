@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:29:18.596310+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-12-21T13:13:02.189695+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时13分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时13分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 11时56分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时29分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -69,11 +69,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 13时13分]"
         }
       ]
     },
@@ -91,8 +92,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 13时13分]"
         }
       ]
     }
