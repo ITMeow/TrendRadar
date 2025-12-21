@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T13:13:02.189695+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-12-21T14:15:40.561894+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 14时15分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -27,11 +28,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 14时15分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -60,7 +62,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -70,11 +72,23 @@
             10,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时15分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     },
@@ -89,11 +103,12 @@
           "ranks": [
             17,
             13,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时15分]"
         }
       ]
     }
