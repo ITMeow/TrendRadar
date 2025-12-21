@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T20:17:38.680801+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2025-12-21T21:21:45.129784+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -58,12 +58,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -94,6 +105,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时15分 ~ 17时10分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
@@ -111,11 +150,12 @@
             15,
             10,
             12,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 20时17分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 21时21分]"
         }
       ]
     }
