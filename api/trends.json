@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T11:56:30.098742+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2025-12-21T12:29:18.596310+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时29分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时29分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -68,11 +68,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时29分]"
         }
       ]
     },
@@ -86,11 +87,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时29分]"
         }
       ]
     }
