@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T16:16:47.910472+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-12-22T17:17:51.980726+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时50分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时50分 ~ 17时17分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -63,9 +63,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi 月活不足豆包 5%，被指「跌下神坛」，如何评价 Kimi 的表现？为何用户会大幅度下滑？",
+          "url": "https://www.zhihu.com/question/1984935867001889123",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     }
