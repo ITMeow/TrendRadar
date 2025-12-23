@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T08:46:46.250714+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-23T10:49:16.003060+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 10时49分]"
         }
       ]
     }
