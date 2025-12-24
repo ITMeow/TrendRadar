@@ -1,69 +1,7 @@
 {
-  "generated_at": "2025-12-23T22:11:51.227131+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-12-24T08:46:48.650094+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时46分 ~ 21时29分]"
-        },
-        {
-          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3025398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent agent",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
-          "url": "https://wallstreetcn.com/livenews/3025584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时29分]"
-        },
-        {
-          "title": "钉钉发布全球首个工作智能操作系统Agent OS",
-          "url": "https://wallstreetcn.com/livenews/3025309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://itmeow.github.io/TrendRadar/img/news.jpg"
 }
