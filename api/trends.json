@@ -1,52 +1,22 @@
 {
-  "generated_at": "2025-12-24T22:10:50.564576+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-12-25T08:46:23.343886+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
-          "url": "https://wallstreetcn.com/livenews/3026145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时11分]"
-        },
-        {
-          "title": "阿里升级新一代语音模型Qwen3-TTS，可参考文字、声音生成拟人音色",
-          "url": "https://wallstreetcn.com/livenews/3026106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "08时46分"
         }
       ]
     }
