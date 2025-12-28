@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-28T13:16:02.387325+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-12-28T14:16:22.927754+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价罗伯·派克对大语言模型的愤怒？",
+          "url": "https://www.zhihu.com/question/1988297329753736179",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://itmeow.github.io/TrendRadar/img/news.jpg"
 }
