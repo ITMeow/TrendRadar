@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-12-28T22:10:26.213184+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-12-29T08:53:15.195503+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价罗伯·派克对大语言模型的愤怒？",
-          "url": "https://www.zhihu.com/question/1988297329753736179",
-          "source": "知乎",
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     }
