@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:10:42.261050+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-01-02T20:19:21.238113+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             3,
             4,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时52分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[10时52分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -57,11 +58,12 @@
             11,
             15,
             16,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时48分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[08时48分 ~ 20时19分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 20时19分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -90,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
