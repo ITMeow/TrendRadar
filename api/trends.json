@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T14:15:47.204731+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-01-03T15:11:22.439641+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时11分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -59,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时11分]"
         }
       ]
     }
