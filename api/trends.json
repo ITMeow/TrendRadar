@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-01-04T22:09:36.798958+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-01-05T08:54:28.482041+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
-          "url": "https://www.zhihu.com/question/1990117220391622363",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://itmeow.github.io/TrendRadar/img/news.jpg"
 }
