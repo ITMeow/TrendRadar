@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-01-05T22:15:03.628181+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-01-06T08:48:36.371594+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
-          "url": "https://flash.jin10.com/detail/20260105200457445800",
-          "source": "金十数据",
+          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2248633",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
-          "url": "https://flash.jin10.com/detail/20260105200103118800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时48分"
         }
       ]
     }
