@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T15:18:04.891248+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-01-06T16:16:46.336372+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 16时16分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
