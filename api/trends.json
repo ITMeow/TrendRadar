@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-06T08:48:36.371594+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-06T10:51:51.203643+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
           "url": "https://www.cls.cn/detail/2248633",
@@ -17,6 +28,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "大白话解读DeepSeek论文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     }
