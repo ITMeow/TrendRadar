@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-08T13:16:28.373229+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-01-08T14:17:39.075655+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
