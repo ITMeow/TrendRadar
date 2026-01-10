@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:51:32.903596+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-10T12:24:54.754984+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时24分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时24分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时24分]"
         },
         {
           "title": "DeepSeekV4新模型或于春节前后发布",
@@ -67,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时24分]"
         }
       ]
     }
