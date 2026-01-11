@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:24:43.330125+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-01-11T22:10:08.711135+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时17分 ~ 21时24分]"
+          "appearance_count": 14,
+          "time_info": "[13时17分 ~ 22时10分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -30,8 +30,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 21时24分]"
+          "appearance_count": 17,
+          "time_info": "[08时54分 ~ 22时10分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
