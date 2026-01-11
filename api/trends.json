@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T14:16:41.832077+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-01-11T15:13:13.122422+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时13分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -28,8 +28,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 15时13分]"
+        },
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 15时13分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时54分 ~ 13时18分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时16分]"
         },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
