@@ -1,23 +1,36 @@
 {
-  "generated_at": "2026-01-11T12:39:43.187870+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-11T13:18:14.514478+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时18分]"
+        },
         {
           "title": "UP主解读DeepSeek进化史",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时18分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -27,19 +40,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时18分]"
         },
         {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
