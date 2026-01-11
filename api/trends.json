@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T17:11:28.869779+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-01-11T18:10:51.680166+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 17时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 18时10分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 17时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 18时10分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
