@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T13:17:53.306201+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-01-13T14:17:55.412875+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 14时17分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 14时17分]"
         },
         {
           "title": "iPhone官宣接入Gemini",
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 14时17分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -99,8 +99,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 14时17分]"
         }
       ]
     }
