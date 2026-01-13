@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:21:26.105101+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-01-13T21:34:37.654545+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时43分 ~ 20时21分]"
+          "appearance_count": 18,
+          "time_info": "[08时43分 ~ 21时34分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时43分 ~ 20时21分]"
+          "appearance_count": 18,
+          "time_info": "[08时43分 ~ 21时34分]"
         },
         {
           "title": "谷歌今年将在越南研发并生产高端手机。",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 08时44分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
@@ -163,8 +174,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时34分]"
         }
       ]
     },
