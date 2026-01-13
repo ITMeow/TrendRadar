@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:33:25.534247+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-01-13T13:17:53.306201+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 12时33分]"
+          "appearance_count": 7,
+          "time_info": "[08时43分 ~ 13时17分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时43分 ~ 13时17分]"
         },
         {
           "title": "iPhone官宣接入Gemini",
@@ -31,27 +44,16 @@
           "time_info": "[10时50分 ~ 11时57分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 12时33分]"
-        },
-        {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2255551",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 13时17分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -77,7 +79,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
@@ -93,11 +95,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 13时17分]"
         }
       ]
     }
