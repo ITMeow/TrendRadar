@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:17:40.023161+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-01-14T16:16:45.041534+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时50分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 16时16分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -30,12 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -48,6 +59,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时50分 ~ 12时06分]"
+        },
+        {
+          "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
+          "url": "https://wallstreetcn.com/livenews/3036793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     }
