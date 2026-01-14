@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:34:21.439250+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-01-14T22:16:08.195012+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 22时16分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
