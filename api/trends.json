@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:19:11.073920+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-14T18:14:05.416171+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时14分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
