@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T11:58:21.426386+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-01-16T12:34:28.317781+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 11时58分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时34分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时34分]"
         }
       ]
     },
