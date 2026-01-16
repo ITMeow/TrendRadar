@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T12:34:28.317781+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-01-16T13:17:06.963764+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -54,22 +54,24 @@
             1,
             4,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时49分 ~ 13时17分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 13时17分]"
         }
       ]
     },
