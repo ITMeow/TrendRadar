@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-16T08:49:43.576338+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-01-16T10:54:08.465311+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "联手谷歌后苹果AI有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E6%89%8B%E8%B0%B7%E6%AD%8C%E5%90%8E%E8%8B%B9%E6%9E%9CAI%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
         {
           "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
           "url": "https://www.zhihu.com/question/1994345893202191645",
@@ -33,18 +44,47 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时54分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被称为开源版 ClaudeCode 的 Opencode 狂飙 Star，其爆火原因和影响是什么？",
+          "url": "https://www.zhihu.com/question/1992268656592299582",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
         }
       ]
     },
