@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:15:01.359817+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-01-17T08:46:51.065704+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,123 +8,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "联手谷歌后苹果AI有哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E6%89%8B%E8%B0%B7%E6%AD%8C%E5%90%8E%E8%8B%B9%E6%9E%9CAI%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
-          "url": "https://www.zhihu.com/question/1994345893202191645",
-          "source": "知乎",
-          "ranks": [
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "08时46分"
         },
         {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
+          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260117050916317800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3039041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "08时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时49分 ~ 13时17分]"
-        },
         {
           "title": "清华姚班陈立杰加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "被称为开源版 ClaudeCode 的 Opencode 狂飙 Star，其爆火原因和影响是什么？",
-          "url": "https://www.zhihu.com/question/1992268656592299582",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "文心APP内测“多人多Agent”群聊",
-          "url": "https://wallstreetcn.com/livenews/3038718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "08时46分"
         }
       ]
     }
