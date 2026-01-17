@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:23:27.120574+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-17T22:10:19.021834+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 22时10分]"
         },
         {
           "title": "ChatGPT将加入广告",
