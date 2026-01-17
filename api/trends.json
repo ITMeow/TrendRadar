@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:11:24.722783+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-01-17T18:10:42.173981+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 18时10分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -100,6 +100,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
+          "url": "https://wallstreetcn.com/articles/3763484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     }
