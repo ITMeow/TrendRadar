@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T13:12:25.483980+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-01-17T14:16:16.018428+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
             6,
             11,
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 14时16分]"
         },
         {
           "title": "ChatGPT将加入广告",
@@ -71,9 +72,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时16分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
