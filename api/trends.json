@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:12:10.504147+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-18T18:10:57.198906+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时15分 ~ 17时12分]"
+          "appearance_count": 7,
+          "time_info": "[14时15分 ~ 18时10分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 18时10分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -94,11 +95,12 @@
             8,
             9,
             15,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 17时12分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 18时10分]"
         }
       ]
     }
