@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:12:35.459877+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-01-18T16:14:27.000755+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 16时14分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -47,11 +47,12 @@
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 16时14分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -91,11 +92,12 @@
             5,
             6,
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时14分]"
         }
       ]
     }
