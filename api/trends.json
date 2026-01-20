@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-20T15:19:40.754835+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-20T16:18:27.422626+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 16时18分]"
+        },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
@@ -15,19 +29,6 @@
             8,
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时19分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
