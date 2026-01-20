@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T10:55:14.800438+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-20T12:03:00.739318+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时03分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
           "url": "https://www.cls.cn/detail/2262946",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时03分]"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
