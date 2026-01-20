@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:18:23.727955+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-20T08:47:21.690569+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,72 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
+          "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
+          "url": "https://flash.jin10.com/detail/20260120080414505800",
+          "source": "金十数据",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
-          "url": "https://wallstreetcn.com/articles/3763553",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 22时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节跳动：“扣子”官宣2.0品牌升级，推出全新功能Agent Skills、Agent Plan",
-          "url": "https://wallstreetcn.com/livenews/3039719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 16时18分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
