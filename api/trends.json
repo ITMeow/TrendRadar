@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:20:05.974486+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-01-21T15:19:56.513138+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "ranks": [
             4,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时19分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
