@@ -1,83 +1,22 @@
 {
-  "generated_at": "2026-01-22T22:22:14.720797+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-01-23T08:50:06.645594+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic上个月预计，2025年通过向企业和应用开发者销售人工智能，其毛利率将达到40%。",
-          "url": "https://flash.jin10.com/detail/20260122102153004800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "据The Information：Anthropic下调其利润率预期，尽管营收大幅飙升。",
-          "url": "https://flash.jin10.com/detail/20260122102058109800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            12,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 14时19分]"
-        },
-        {
-          "title": "月之暗面总裁张予彤：Kimi仅使用美国顶尖实验室1%的资源，最新模型将很快发布",
-          "url": "https://wallstreetcn.com/livenews/3041929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称谷歌将把旗下TPU服务器的L10~L11组装订单，交由英业达代工。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3041754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时19分]"
+          "time_info": "[08时49分 ~ 08时50分]"
         }
       ]
     }
