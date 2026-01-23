@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-23T15:17:22.855736+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-23T16:16:03.045918+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 1,
