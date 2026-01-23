@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-23T17:19:44.649032+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-01-23T18:13:52.308268+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 1,
@@ -16,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时13分]"
         }
       ]
     },
