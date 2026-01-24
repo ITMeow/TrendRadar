@@ -1,27 +1,8 @@
 {
-  "generated_at": "2026-01-23T22:16:12.287557+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-01-24T08:47:52.197522+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时16分]"
-        }
-      ]
-    },
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 1,
@@ -31,30 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3764001",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时15分 ~ 22时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek Model 1悄然现身",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
