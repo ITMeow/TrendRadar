@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T13:21:16.115760+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-01-25T14:17:01.251662+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待开源项目 vLLM 和 SGLang 团队纷纷创立公司？商业化将给项目和 Infra 行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1997984039219454411",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         }
       ]
     }
