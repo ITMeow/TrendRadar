@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T12:07:42.961853+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-01-27T13:19:50.001577+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 12时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
