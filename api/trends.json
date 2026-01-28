@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:08:38.945075+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-01-28T13:20:04.877113+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时20分]"
         },
         {
           "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
@@ -68,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 13时20分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -78,7 +79,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -97,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 13时20分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -126,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 13时20分]"
         }
       ]
     }
