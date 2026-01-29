@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T21:51:21.168412+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-01-29T22:32:12.286681+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时32分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时51分]"
+          "time_info": "[21时51分 ~ 22时32分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
         },
         {
           "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时51分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时32分]"
         }
       ]
     },
