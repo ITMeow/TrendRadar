@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-30T21:46:29.193303+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-01-30T22:26:30.137088+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
+          "url": "https://flash.jin10.com/detail/20260130220348095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
         {
           "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
           "url": "https://flash.jin10.com/detail/20260130080955089800",
