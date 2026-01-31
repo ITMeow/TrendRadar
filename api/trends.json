@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:32:15.835370+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-01-31T14:23:42.993177+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 14时23分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -26,11 +27,12 @@
             3,
             14,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时23分]"
         }
       ]
     },
@@ -48,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }
