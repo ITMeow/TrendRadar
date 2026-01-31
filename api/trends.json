@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-31T18:12:51.438128+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-01-31T19:12:13.116372+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -38,23 +66,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent agent",
       "match_count": 1,
       "titles": [
@@ -66,11 +77,12 @@
             13,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 19时12分]"
         }
       ]
     }
