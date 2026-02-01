@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:30:38.472365+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-02-01T16:19:11.963469+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             8,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时19分]"
         },
         {
           "title": "Kimi K2.5成为OpenClaw首个宣布免费使用的主力模型",
@@ -82,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时30分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 16时19分]"
         }
       ]
     }
