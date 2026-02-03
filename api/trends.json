@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:24:48.925244+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-02-03T17:30:12.507904+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         }
       ]
     }
