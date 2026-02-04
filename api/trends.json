@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T17:32:23.714260+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-02-04T18:28:01.276829+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 18时28分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 18时28分]"
         }
       ]
     },
@@ -123,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 18时28分]"
         }
       ]
     }
