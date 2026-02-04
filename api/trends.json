@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:37:50.924230+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-02-04T16:26:45.123260+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 16时26分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -102,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 16时26分]"
         }
       ]
     },
@@ -118,11 +119,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 16时26分]"
         }
       ]
     }
