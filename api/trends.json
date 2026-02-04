@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:36:18.133954+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-04T15:37:50.924230+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 15时37分]"
         },
         {
           "title": "OpenAI：ChatGPT有关问题现已解决。",
@@ -49,7 +50,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -89,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 15时37分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -101,8 +102,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 15时37分]"
         }
       ]
     },
@@ -116,11 +117,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 15时37分]"
         }
       ]
     }
