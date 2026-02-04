@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T08:56:52.027987+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-04T11:26:56.651557+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2279758",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时26分]"
         },
         {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
@@ -54,19 +55,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时26分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
           "url": "https://wallstreetcn.com/articles/3764887",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时26分]"
         }
       ]
     },
@@ -79,11 +81,12 @@
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时26分]"
         }
       ]
     }
