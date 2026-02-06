@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:28:08.705293+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-02-06T17:32:17.724181+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 17时32分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 17时32分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
