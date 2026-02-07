@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-07T15:24:27.797149+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-02-07T16:17:11.072996+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 4,
       "titles": [
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 16时17分]"
+        },
         {
           "title": "据悉Anthropic逾200亿美元融资最快下周完成",
           "url": "https://flash.jin10.com/detail/20260207093512214800",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 11时16分]"
-        },
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时24分]"
         }
       ]
     },
@@ -112,11 +113,12 @@
             10,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 16时17分]"
         }
       ]
     },
@@ -134,8 +136,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 16时17分]"
         }
       ]
     }
