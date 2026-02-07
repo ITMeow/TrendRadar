@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-02-07T13:41:32.138723+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-07T14:27:44.066037+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据悉Anthropic逾200亿美元融资最快下周完成",
+          "url": "https://flash.jin10.com/detail/20260207093512214800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时27分]"
+        },
+        {
+          "title": "市场消息 :Anthropic逾200亿美元融资最快下周完成。",
+          "url": "https://flash.jin10.com/detail/20260207091527019800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时41分]"
+        },
+        {
+          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
+          "url": "https://wallstreetcn.com/articles/3765116",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时16分]"
+        },
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 3,
@@ -46,48 +100,6 @@
       ]
     },
     {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据悉Anthropic逾200亿美元融资最快下周完成",
-          "url": "https://flash.jin10.com/detail/20260207093512214800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时41分]"
-        },
-        {
-          "title": "市场消息 :Anthropic逾200亿美元融资最快下周完成。",
-          "url": "https://flash.jin10.com/detail/20260207091527019800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时41分]"
-        },
-        {
-          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-          "url": "https://wallstreetcn.com/articles/3765116",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -101,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时27分]"
         }
       ]
     },
@@ -119,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 14时27分]"
         }
       ]
     }
