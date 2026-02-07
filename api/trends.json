@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:13:37.558782+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-02-07T20:21:14.487032+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 20时21分]"
         },
         {
           "title": "据悉Anthropic逾200亿美元融资最快下周完成",
@@ -119,8 +119,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 20时21分]"
         }
       ]
     },
@@ -139,8 +139,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时01分 ~ 20时21分]"
         }
       ]
     }
