@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:01:42.114430+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-02-07T13:41:32.138723+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 13时41分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -49,18 +50,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-          "url": "https://wallstreetcn.com/articles/3765116",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时16分]"
-        },
-        {
           "title": "据悉Anthropic逾200亿美元融资最快下周完成",
           "url": "https://flash.jin10.com/detail/20260207093512214800",
           "source": "金十数据",
@@ -69,8 +58,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时41分]"
         },
         {
           "title": "市场消息 :Anthropic逾200亿美元融资最快下周完成。",
@@ -81,8 +70,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时41分]"
+        },
+        {
+          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
+          "url": "https://wallstreetcn.com/articles/3765116",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时01分]"
+          "time_info": "[08时56分 ~ 11时16分]"
         }
       ]
     },
@@ -100,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 13时41分]"
         }
       ]
     },
@@ -114,11 +115,12 @@
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时41分]"
         }
       ]
     }
