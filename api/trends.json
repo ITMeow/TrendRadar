@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:22:07.946216+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-02-08T21:38:02.077405+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时24分 ~ 20时22分]"
+          "appearance_count": 17,
+          "time_info": "[12时24分 ~ 21时38分]"
         },
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时22分]"
+          "appearance_count": 10,
+          "time_info": "[16时18分 ~ 21时38分]"
         }
       ]
     },
@@ -62,11 +62,12 @@
           "url": "https://wallstreetcn.com/articles/3765244",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 21时38分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时16分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[09时16分 ~ 21时38分]"
         }
       ]
     }
