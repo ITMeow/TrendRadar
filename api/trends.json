@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:32:02.976032+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-02-08T16:19:04.019592+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 16时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         }
       ]
     },
@@ -44,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 16时19分]"
         }
       ]
     }
