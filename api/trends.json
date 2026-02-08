@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:38:02.077405+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-02-08T22:18:13.818842+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时24分 ~ 21时38分]"
+          "appearance_count": 19,
+          "time_info": "[12时24分 ~ 22时18分]"
         },
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时18分 ~ 21时38分]"
+          "appearance_count": 12,
+          "time_info": "[16时18分 ~ 22时18分]"
         }
       ]
     },
@@ -66,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[18时14分 ~ 22时18分]"
         }
       ]
     },
@@ -80,11 +81,12 @@
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时16分 ~ 21时38分]"
+          "appearance_count": 21,
+          "time_info": "[09时16分 ~ 22时18分]"
         }
       ]
     }
