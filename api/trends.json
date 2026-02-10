@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T16:37:12.409396+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-02-10T17:47:29.034559+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "12时22分"
         },
         {
+          "title": "字节又一新模型！Seedream 5.0上线，对标Nano Banana Pro",
+          "url": "https://wallstreetcn.com/articles/3765374",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 17时47分]"
+        },
+        {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时10分 ~ 14时05分]"
-        },
-        {
-          "title": "字节又一新模型！Seedream 5.0上线，对标Nano Banana Pro",
-          "url": "https://wallstreetcn.com/articles/3765374",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 16时37分]"
         },
         {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
@@ -71,7 +72,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
