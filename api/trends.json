@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-02-11T19:36:27.502369+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-02-11T20:38:22.330098+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时38分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
+          "url": "https://wallstreetcn.com/livenews/3053713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 2,
@@ -75,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 20时38分]"
         }
       ]
     },
@@ -95,23 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         }
       ]
     }
