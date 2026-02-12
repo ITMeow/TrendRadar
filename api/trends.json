@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:44:19.635775+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-12T16:32:06.437815+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -52,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -64,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时32分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -75,11 +76,12 @@
             10,
             15,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时32分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
