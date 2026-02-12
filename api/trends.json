@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T20:35:34.181821+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-02-12T22:03:07.291974+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             10,
             8,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 22时03分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
