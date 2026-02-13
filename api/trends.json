@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-13T18:28:56.087815+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-02-13T19:24:11.385557+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 7,
       "titles": [
-        {
-          "title": "Deepseek被指变冷淡了",
-          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
         {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
@@ -30,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时05分 ~ 19时24分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -47,8 +36,33 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时05分 ~ 19时24分]"
+        },
+        {
+          "title": "Deepseek被指变冷淡了",
+          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -63,19 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时05分 ~ 14时44分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
