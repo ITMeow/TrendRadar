@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:32:43.462657+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-13T18:28:56.087815+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 18时28分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -47,8 +47,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -70,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -83,11 +84,12 @@
           "ranks": [
             29,
             30,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
