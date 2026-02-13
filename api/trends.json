@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-13T09:05:36.422581+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T12:09:30.903503+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek变冷淡了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
         {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top",
@@ -30,26 +19,40 @@
           "time_info": "09时05分"
         },
         {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时09分]"
+        },
+        {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时09分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时09分]"
         }
       ]
     },
@@ -62,22 +65,24 @@
           "url": "https://www.cls.cn/detail/2289062",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时09分]"
         },
         {
           "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
           "url": "https://www.cls.cn/detail/2288901",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时09分]"
         }
       ]
     },
