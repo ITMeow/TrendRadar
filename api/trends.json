@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T13:52:43.941848+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-02-13T14:44:29.273690+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             10,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 14时44分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 14时44分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -51,11 +52,12 @@
           "ranks": [
             14,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 14时44分]"
         }
       ]
     },
@@ -73,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 14时44分]"
         },
         {
           "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
