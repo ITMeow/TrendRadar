@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T18:15:07.856332+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-14T19:13:52.465582+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时03分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 19时13分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -28,11 +29,12 @@
           "ranks": [
             5,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 19时13分]"
         },
         {
           "title": "Gemini是怎么绝地反杀的",
@@ -105,8 +107,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 19时13分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -120,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 19时13分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -135,8 +137,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 19时13分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 19时13分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -150,18 +164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时03分 ~ 16时18分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 18时15分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -199,11 +201,12 @@
           "ranks": [
             1,
             17,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 19时13分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
