@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T09:04:25.357907+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-15T12:10:57.096819+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 12时10分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 12时10分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
           "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 12时10分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -50,6 +53,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 12时10分]"
+        },
+        {
+          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
+          "url": "https://flash.jin10.com/detail/20260215103819376800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
+          "url": "https://flash.jin10.com/detail/20260215103523505800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
+          "url": "https://flash.jin10.com/detail/20260215101721943800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -71,23 +125,6 @@
       ]
     },
     {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 1,
       "titles": [
@@ -96,11 +133,12 @@
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 12时10分]"
         }
       ]
     }
