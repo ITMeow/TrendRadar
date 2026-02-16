@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-16T14:58:53.019657+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-16T15:50:56.193924+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时50分]"
+        },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2006637072895738078",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 14时58分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时58分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "ranks": [
             12,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时50分]"
         }
       ]
     },
@@ -89,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 15时50分]"
         }
       ]
     }
