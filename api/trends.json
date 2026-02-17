@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:35:20.419825+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-02-17T19:31:48.358472+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -116,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 19时31分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -147,7 +147,7 @@
     },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：月之暗面（Kimi）寻求在新一轮融资中达到100亿美元估值",
@@ -159,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "Kimi估值超100亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E4%BC%B0%E5%80%BC%E8%B6%85100%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     }
