@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T17:34:36.546558+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-02-19T18:32:12.870959+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时32分]"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
