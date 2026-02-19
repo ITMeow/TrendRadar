@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:45:19.970782+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-02-19T15:41:51.236477+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -42,11 +42,12 @@
           "ranks": [
             9,
             14,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时41分]"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
@@ -58,6 +59,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic CEO：（谈及AI）我们有潜力治愈数千年来无法治愈的疾病。彻底改善人类健康。让数十亿人摆脱贫困。为每个人创造一个更美好的世界。不过，我对AI模型的自主行为感到担忧。它们可能被个人和政府滥用，同时，它们可能引发经济替代效应。",
+          "url": "https://flash.jin10.com/detail/20260219145906401800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     }
