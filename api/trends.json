@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T18:26:18.176025+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-02-20T19:23:04.140288+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -111,11 +111,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
