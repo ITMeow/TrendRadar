@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:28:31.415965+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-02-21T15:24:13.135310+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             9,
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -30,11 +31,12 @@
             17,
             21,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 15时24分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -87,11 +89,12 @@
           "ranks": [
             2,
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -102,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 15时24分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
