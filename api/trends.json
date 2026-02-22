@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:13:22.061878+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-02-22T20:22:06.095942+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 20时22分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -80,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 20时22分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -113,8 +113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时36分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时36分 ~ 20时22分]"
         },
         {
           "title": "阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型",
