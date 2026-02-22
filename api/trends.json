@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:33:32.528360+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-22T15:29:12.221660+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时29分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时29分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -47,7 +49,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -58,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时29分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -70,8 +72,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时29分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时33分]"
+          "time_info": "[15时28分 ~ 15时29分]"
         }
       ]
     },
@@ -88,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时29分]"
         },
         {
           "title": "阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型",
@@ -98,11 +111,12 @@
           "ranks": [
             5,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 15时29分]"
         }
       ]
     }
