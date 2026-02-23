@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:32:33.635089+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-02-23T20:34:48.816718+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 20时34分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -42,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时34分]"
         },
         {
           "title": "据AXIOS网站：美国国防部长赫格塞思将会将Anthropic CEO。",
