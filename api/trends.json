@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:39:04.263035+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-02-27T16:28:35.754072+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[08时59分 ~ 14时37分]"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时28分]"
+        },
+        {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2010521633262101357",
           "source": "知乎",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时09分 ~ 14时37分]"
-        },
-        {
-          "title": "谷歌的“豆包手机”来了？",
-          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -91,8 +91,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时28分]"
         }
       ]
     },
