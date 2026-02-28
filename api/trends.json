@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:10:17.210829+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-02-28T20:20:35.234458+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时53分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[08时53分 ~ 20时20分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -46,8 +47,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时21分 ~ 19时10分]"
+          "appearance_count": 11,
+          "time_info": "[14时21分 ~ 20时20分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -147,6 +148,18 @@
           "time_info": "[12时46分 ~ 14时22分]"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时20分]"
+        },
+        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -179,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         }
       ]
     },
@@ -206,11 +208,12 @@
             15,
             14,
             6,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时21分 ~ 19时10分]"
+          "appearance_count": 11,
+          "time_info": "[14时21分 ~ 20时20分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -225,6 +228,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时04分 ~ 14时22分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 20时20分]"
         },
         {
           "title": "Anthropic公司将把美国国防部告上法庭",
@@ -249,17 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时04分 ~ 12时46分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "美国参议院民主党成员Warren：特朗普政府针对Anthropic的举动属于“滥用权力”。",
@@ -342,6 +346,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2010670686461452529",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 1,
       "titles": [
@@ -376,23 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 14时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "deepseek崩了",
-          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         }
       ]
     }
