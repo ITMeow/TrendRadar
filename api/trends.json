@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-03-02T19:26:00.796923+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-02T20:30:46.421079+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 20时30分]"
+        },
+        {
+          "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 1,
@@ -37,25 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时00分 ~ 11时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 19时26分]"
         }
       ]
     },
