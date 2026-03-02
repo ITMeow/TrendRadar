@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T20:30:46.421079+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-03-02T21:51:47.441264+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 20时30分]"
+          "appearance_count": 8,
+          "time_info": "[17时36分 ~ 21时51分]"
         },
         {
           "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
@@ -27,9 +27,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
+        },
+        {
+          "title": "Claude：已发现部分API接口无法正常使用，我们正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260302213901692800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     },
@@ -102,6 +113,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 13时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有没有一种可能，现在的大语言模型已经发展得接近极限了？",
+          "url": "https://www.zhihu.com/question/2005359066768221510",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     }
