@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T16:27:33.320279+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-03-03T17:31:40.585221+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2300871",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时31分]"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
