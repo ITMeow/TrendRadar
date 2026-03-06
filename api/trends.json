@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:27:06.506687+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-03-06T18:23:24.413149+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 18时23分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
