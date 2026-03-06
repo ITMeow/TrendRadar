@@ -1,101 +1,94 @@
 {
-  "generated_at": "2026-03-05T22:36:52.624582+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-03-06T09:05:15.081695+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 3,
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 6,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
-          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "title": "Anthropic：我们唯一的关切始终在于我们对完全自主武器和大规模国内监控的反对立场。将以象征性成本向美国国防部及国家安全界提供我们的模型，并由我们的工程师持续提供技术支持。",
+          "url": "https://flash.jin10.com/detail/20260306084739380800",
           "source": "金十数据",
           "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "09时05分"
         },
         {
-          "title": "谷歌DeepMind向千问团队抛橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3064303",
+          "title": "Anthropic：正如我们在周五所言，我们认为这一举措在法律上站不住脚，因此别无选择，只能向法院提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260306084103776800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "Anthropic：收到美国国防部来函，确认本公司已被认定为对美国国家安全构成供应链风险的企业。",
+          "url": "https://flash.jin10.com/detail/20260306084033787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "据AXIOS网站：Anthropic首席执行官就泄露的批评特朗普的备忘录致歉。",
+          "url": "https://flash.jin10.com/detail/20260306083924046800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "Anthropic 就其与美国国防部的争端发表声明。 Anthropic 表示已收到国防部的信函，确认公司已被列为“美国国家安全供应链风险单位”。 国防部与公司周五发布的声明一致 ，绝大多数客户并未受到供应链风险认定的影响。 公司重申，过去几天里一直与国防部保持着富有成效的沟通。 Anthropic称，五角大楼的行为在法律上站不住脚。 并表示，别无选择，只能诉诸法律。 公司目前最重要的优先事项，是确保一线战士和国家安全专家不会失去这些重要的工具。 公司此前唯一的顾虑，仅在于对“全自动武器”和“大规模国内监视”的例外条款。 公司将向国防部及国家安全机构提供我们的模型，仅收取象征性费用，并由我司工程师提供持续的技术支持。 在过渡期间，只要有必要且只要公司获得许可，公司将持续提供模型支持。",
+          "url": "https://wallstreetcn.com/livenews/3064730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "09时05分"
         },
         {
-          "title": "阿里挖角谷歌DeepMind技术大牛",
-          "url": "https://www.toutiao.com/trending/7613743881837874697/",
-          "source": "今日头条",
+          "title": "Anthropic CEO Dario Amodei为一份泄露的批评特朗普政府的备忘录道歉。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3064729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时54分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "据英国金融时报：继人工智能合作之后，OpenAI寻求美国国防部提供更多监控方面的保障。",
-          "url": "https://flash.jin10.com/detail/20260305084158764800",
-          "source": "金十数据",
+          "title": "OpenAI发布最强专业模型GPT-5.4",
+          "url": "https://www.toutiao.com/trending/7613911179013918271/",
+          "source": "今日头条",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 15时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
-          "url": "https://wallstreetcn.com/articles/3766696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         }
       ]
     },
@@ -104,32 +97,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
+          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
+          "url": "https://www.zhihu.com/question/2012928663889338822",
           "source": "知乎",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "副业 AI工具 side projects AI Saas",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美军称AI工具在对伊行动中发挥关键作用",
-          "url": "https://flash.jin10.com/detail/20260305124103778800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         }
       ]
     }
