@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:11:19.627902+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-03-07T20:21:10.334433+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -65,9 +65,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时21分]"
         },
         {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
