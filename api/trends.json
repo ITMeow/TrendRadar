@@ -1,101 +1,22 @@
 {
-  "generated_at": "2026-03-07T22:13:55.987385+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-03-08T09:01:36.187829+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国总务管理局：已终止与Anthropic公司签订的OneGov协议。",
-          "url": "https://flash.jin10.com/detail/20260307103902700800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时54分]"
-        },
-        {
-          "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
-          "url": "https://flash.jin10.com/detail/20260307080922168800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
-          "url": "https://flash.jin10.com/detail/20260307085433321800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时13分]"
-        },
-        {
-          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260307080857687800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "小米新发布移动端 Agent 产品「Xiaomi miclaw」，开启小范围封测，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2013221026566202540",
-          "source": "知乎",
+          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
+          "url": "https://wallstreetcn.com/livenews/3065778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "09时01分"
         }
       ]
     }
