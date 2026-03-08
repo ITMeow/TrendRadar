@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T16:17:17.352840+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-03-08T17:18:21.250403+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 17时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek建议普通用户养虾前先观望",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E5%85%BB%E8%99%BE%E5%89%8D%E5%85%88%E8%A7%82%E6%9C%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     }
