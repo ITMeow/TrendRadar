@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-03-08T22:15:04.846467+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-03-09T09:01:50.600414+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
-          "url": "https://wallstreetcn.com/livenews/3065778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛的判断：Claude Cowork成首个“代理工作流可信案例”，OpenClaw展示未来人机交互方向",
-          "url": "https://wallstreetcn.com/articles/3766958",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时31分 ~ 19时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek建议普通用户养虾前先观望",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E5%85%BB%E8%99%BE%E5%89%8D%E5%85%88%E8%A7%82%E6%9C%9B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://itmeow.github.io/TrendRadar/img/news.jpg"
 }
