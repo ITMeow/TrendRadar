@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T20:32:08.967747+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-03-09T21:58:01.809347+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -59,6 +59,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时15分 ~ 17时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "arxiv 新论文解释语言模型产生幻觉的原因，为什么 LLM 宁可瞎编也不说我不知道？",
+          "url": "https://www.zhihu.com/question/2012526323764000694",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         }
       ]
     }
