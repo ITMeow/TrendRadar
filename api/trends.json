@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-03-13T22:34:56.809367+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-03-14T08:58:57.531703+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini nano banana",
       "match_count": 1,
       "titles": [
         {
-          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
-          "url": "https://wallstreetcn.com/livenews/3069234",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
+          "url": "https://flash.jin10.com/detail/20260314081810552800",
+          "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "GitHub Copilot 、 Cursor 、 CodeX 与 Claude Code，我究竟要为谁付费？",
-          "url": "https://www.zhihu.com/question/1963698332040929828",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "08时58分"
         }
       ]
     },
@@ -46,29 +29,11 @@
           "url": "https://www.zhihu.com/question/2014783631814580088",
           "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "llm 大语言模型 多模态大模型 Multi Large Language Model",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "懂车帝多模态大模型算法通过备案",
-          "url": "https://wallstreetcn.com/livenews/3069843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
