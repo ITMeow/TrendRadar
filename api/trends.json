@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T20:39:12.950938+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-17T22:11:37.595824+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "AI Agent agent",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -113,6 +113,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "王自如自研的Agent什么水平",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E7%A0%94%E7%9A%84Agent%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "百度集团执行副总裁、百度智能云事业群总裁沈抖：搜索能力是OpenClaw这类AI Agent落地的重要基础设施",
           "url": "https://wallstreetcn.com/livenews/3071529",
           "source": "华尔街见闻-快讯",
@@ -127,7 +138,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
@@ -149,7 +160,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -160,9 +171,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "谷歌正在和英维克等中国公司洽谈采购数据中心冷却系统？英维克：暂时不太清楚业务部门的相关客户信息及进展情况",
+          "url": "https://wallstreetcn.com/livenews/3071704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
