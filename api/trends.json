@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T19:36:46.410381+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-18T20:40:11.085091+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
             7,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 20时40分]"
         },
         {
           "title": "AI大模型龙头月之暗面创始人杨植麟首次完整披露Kimi技术路线图",
