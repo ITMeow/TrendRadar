@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T20:40:11.085091+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-03-18T22:19:16.453899+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
@@ -60,11 +71,12 @@
             9,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 22时19分]"
         },
         {
           "title": "AI大模型龙头月之暗面创始人杨植麟首次完整披露Kimi技术路线图",
@@ -76,6 +88,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：谷歌威胁情报小组（Gtig）识别的威胁行为者已在沙特阿拉伯、土耳其、马来西亚和乌克兰对目标部署了漏洞利用链。",
+          "url": "https://flash.jin10.com/detail/20260318221601028800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
