@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:35:00.638710+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-03-18T17:41:35.788871+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时41分]"
         },
         {
           "title": "OpenAI官宣推出迄今最强大小型模型",
@@ -55,11 +56,12 @@
           "ranks": [
             3,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时41分]"
         },
         {
           "title": "AI大模型龙头月之暗面创始人杨植麟首次完整披露Kimi技术路线图",
