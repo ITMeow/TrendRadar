@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:28:55.122746+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-21T15:25:59.430677+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             6,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 15时25分]"
         },
         {
           "title": "马斯克说这就是kimi",
