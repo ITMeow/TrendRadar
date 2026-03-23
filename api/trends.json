@@ -1,53 +1,39 @@
 {
-  "generated_at": "2026-03-22T22:18:01.435497+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-03-23T09:05:45.736312+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Cursor 被曝「套壳」国产开源模型 Kimi，创始人回应称忘记署名了，怎样看待这一事件？",
-          "url": "https://www.zhihu.com/question/2018689041432879834",
-          "source": "知乎",
+          "title": "据泰晤士报：前谷歌高管马特·布里廷（Matt Brittin）确认出任英国广播公司（BBC）总干事。",
+          "url": "https://flash.jin10.com/detail/20260323081051115800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            1
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 13时44分]"
-        },
-        {
-          "title": "渣打集团行政总裁：希望进一步深入了解DeepSeek",
-          "url": "https://wallstreetcn.com/livenews/3074546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时36分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            23,
-            30
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 12时08分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
