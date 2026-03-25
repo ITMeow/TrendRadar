@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:48:16.480957+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-03-25T15:45:00.311388+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时45分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -27,11 +27,12 @@
           "ranks": [
             5,
             19,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时45分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -42,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时45分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时45分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
