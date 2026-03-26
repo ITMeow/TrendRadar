@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T20:44:20.427483+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-03-26T22:35:50.161762+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 22时35分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -28,11 +28,12 @@
             8,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时53分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[15时53分 ~ 22时35分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -41,11 +42,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 22时35分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 22时35分]"
         },
         {
           "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
