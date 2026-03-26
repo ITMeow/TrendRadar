@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T19:40:46.811932+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-03-26T20:44:20.427483+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 20时44分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 20时44分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -30,21 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 19时40分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 19时40分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 20时44分]"
         }
       ]
     },
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 20时44分]"
         },
         {
           "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
