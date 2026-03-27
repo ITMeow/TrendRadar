@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T18:37:08.100238+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-03-27T19:34:15.437649+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             5,
             2,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 19时34分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -34,8 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 19时34分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -44,11 +45,12 @@
           "ranks": [
             10,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
