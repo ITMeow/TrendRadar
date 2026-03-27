@@ -1,92 +1,52 @@
 {
-  "generated_at": "2026-03-26T22:35:50.161762+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-03-27T09:08:50.210568+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 22时35分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时53分 ~ 22时35分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 22时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            13,
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 22时35分]"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
-          "url": "https://flash.jin10.com/detail/20260326083429340800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
-          "url": "https://wallstreetcn.com/livenews/3076984",
+          "title": "报道：Anthropic考虑最早10月进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3077802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
+          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
