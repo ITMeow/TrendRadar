@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:26:03.906648+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-03-28T18:20:22.006810+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             14,
             11,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时20分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -35,8 +36,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时20分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -51,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时20分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -75,8 +76,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时20分]"
         }
       ]
     }
