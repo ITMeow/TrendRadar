@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:40:00.756326+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-31T20:45:29.655984+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             19,
             4,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时53分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 20时45分]"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
