@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T09:18:47.602599+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-01T12:38:03.328615+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "深度解析Claude源码泄漏",
@@ -34,7 +34,76 @@
           "url": "https://wallstreetcn.com/articles/3768915",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时38分]"
+        },
+        {
+          "title": "UP主让Claude Code进行自修复",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%A9Claude%20Code%E8%BF%9B%E8%A1%8C%E8%87%AA%E4%BF%AE%E5%A4%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时38分]"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
+          "url": "https://wallstreetcn.com/livenews/3080475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -60,36 +129,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "AI Agent agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
+          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
+          "url": "https://www.cls.cn/detail/2331554",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
-          "url": "https://wallstreetcn.com/livenews/3080475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         }
       ]
     }
