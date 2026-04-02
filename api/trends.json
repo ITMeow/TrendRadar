@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T19:37:12.316840+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-02T20:42:54.773157+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             23,
             27,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 20时42分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -59,11 +60,12 @@
             26,
             22,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 20时42分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -79,6 +81,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时06分 ~ 18时41分]"
+        },
+        {
+          "title": "周鸿祎谈Claude Code源码泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 20时42分]"
         },
         {
           "title": "ClaudeCode里到底藏了什么",
@@ -104,17 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 12时16分]"
-        },
-        {
-          "title": "周鸿祎谈Claude Code源码泄露",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
         }
       ]
     },
@@ -140,11 +143,12 @@
           "ranks": [
             14,
             19,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 20时42分]"
         },
         {
           "title": "阿里千问发布新一代大语言模型QWEN3.6-PLUS。",
