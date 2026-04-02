@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T20:42:54.773157+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-04-02T22:15:01.276382+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "深挖Claude Code有何隐藏秘密",
@@ -19,6 +19,22 @@
           "time_info": "[09时06分 ~ 12时16分]"
         },
         {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            28,
+            19,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 22时15分]"
+        },
+        {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
@@ -28,11 +44,12 @@
             27,
             25,
             28,
-            30
+            30,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 22时15分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -47,8 +64,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 22时15分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -61,26 +78,12 @@
             22,
             27,
             29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 20时42分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22,
             28,
-            19,
-            24
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 22时15分]"
         },
         {
           "title": "周鸿祎谈Claude Code源码泄露",
@@ -118,6 +121,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 12时16分]"
+        },
+        {
+          "title": "用Claude Code源码自制客户端",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
+          "title": "美国司法部就特朗普政府对Anthropic的联邦禁令提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260402214221520800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -147,8 +172,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时49分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时49分 ~ 22时15分]"
         },
         {
           "title": "阿里千问发布新一代大语言模型QWEN3.6-PLUS。",
