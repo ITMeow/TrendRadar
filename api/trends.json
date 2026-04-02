@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:49:57.992993+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-04-02T18:41:07.404047+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 18时41分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -41,11 +41,12 @@
             15,
             22,
             28,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 16时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 18时41分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -56,11 +57,12 @@
             19,
             25,
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 18时41分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -70,11 +72,12 @@
             19,
             20,
             26,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 16时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 18时41分]"
         },
         {
           "title": "ClaudeCode里到底藏了什么",
@@ -123,11 +126,12 @@
           "url": "https://www.zhihu.com/question/2022382258535809067",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 18时41分]"
         },
         {
           "title": "阿里千问发布新一代大语言模型QWEN3.6-PLUS。",
