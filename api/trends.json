@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T12:16:50.063897+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-04-02T14:04:54.363098+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时04分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -39,20 +39,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时16分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时04分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -60,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时04分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -72,6 +61,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时04分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            17,
             20
           ],
           "is_new": false,
@@ -91,7 +92,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -102,9 +103,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "图解OpenAI债务危机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     }
