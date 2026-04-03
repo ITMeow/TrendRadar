@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T16:40:08.607450+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-04-03T17:42:46.840995+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             9,
             10,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 17时42分]"
         },
         {
           "title": "用Claude Code源码自制客户端",
@@ -125,11 +126,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 17时42分]"
         }
       ]
     },
