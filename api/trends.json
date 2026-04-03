@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-03T17:42:46.840995+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-04-03T18:33:09.992387+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 7,
       "titles": [
+        {
+          "title": "Anthropic误删数千GitHub仓库",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E8%AF%AF%E5%88%A0%E6%95%B0%E5%8D%83GitHub%E4%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            18,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 18时33分]"
+        },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
@@ -20,20 +35,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时08分 ~ 16时40分]"
-        },
-        {
-          "title": "Anthropic误删数千GitHub仓库",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E8%AF%AF%E5%88%A0%E6%95%B0%E5%8D%83GitHub%E4%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 17时42分]"
         },
         {
           "title": "用Claude Code源码自制客户端",
@@ -97,6 +98,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            20,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 18时33分]"
+        },
+        {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
@@ -119,19 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时08分 ~ 12时17分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时42分]"
         }
       ]
     },
