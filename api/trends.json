@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:29:46.289785+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-03T20:35:08.927147+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             18,
             8,
             21,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时17分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 20时35分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -110,8 +111,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 20时35分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -148,11 +149,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时35分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
