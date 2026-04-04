@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T15:41:13.176842+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-04-04T16:27:37.078731+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude禁止OpenClaw接入",
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 16时27分]"
+        },
+        {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时27分]"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
@@ -31,6 +43,18 @@
           "time_info": "[09时03分 ~ 12时05分]"
         },
         {
+          "title": "Anthropic宣布正式封杀OpenClaw",
+          "url": "https://flash.jin10.com/detail/20260404151452889800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时27分]"
+        },
+        {
           "title": "Claude源码能否让全球AI工具大升级",
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -41,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 12时05分]"
-        },
-        {
-          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
-          "url": "https://www.zhihu.com/question/2023715723785061711",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "Anthropic误删数千GitHub仓库",
@@ -66,15 +79,15 @@
           "time_info": "[09时03分 ~ 12时05分]"
         },
         {
-          "title": "Anthropic宣布正式封杀OpenClaw",
-          "url": "https://flash.jin10.com/detail/20260404151452889800",
-          "source": "金十数据",
+          "title": "如何解读 claude code 代码？",
+          "url": "https://www.zhihu.com/question/2022418574258520852",
+          "source": "知乎",
           "ranks": [
-            7
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时41分"
+          "time_info": "16时27分"
         }
       ]
     },
@@ -90,11 +103,12 @@
             15,
             13,
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 16时27分]"
         }
       ]
     },
