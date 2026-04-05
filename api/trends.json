@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-05T12:27:11.206490+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-04-05T14:08:10.990959+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英媒：英国寻求吸引Anthropic扩大在英业务",
+          "url": "https://flash.jin10.com/detail/20260405130944035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
         {
           "title": "Claude禁止OpenClaw接入",
           "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
@@ -16,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 14时08分]"
         }
       ]
     }
