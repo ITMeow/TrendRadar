@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-08T16:05:49.606942+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-04-08T17:57:07.134732+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 4,
       "titles": [
+        {
+          "title": "Claude防话痨插件爆火",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 17时57分]"
+        },
         {
           "title": "UP主解读Claude新模型Mythos",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBClaude%E6%96%B0%E6%A8%A1%E5%9E%8BMythos",
@@ -20,17 +33,15 @@
           "time_info": "[12时26分 ~ 14时14分]"
         },
         {
-          "title": "Claude防话痨插件爆火",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
+          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
+          "url": "https://wallstreetcn.com/articles/3769434",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            19,
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时11分 ~ 16时05分]"
+          "time_info": "[16时05分 ~ 17时57分]"
         },
         {
           "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时14分 ~ 16时05分]"
-        },
-        {
-          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
-          "url": "https://wallstreetcn.com/articles/3769434",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
         }
       ]
     },
@@ -71,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 17时57分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -120,11 +120,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 16时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时57分]"
         }
       ]
     }
