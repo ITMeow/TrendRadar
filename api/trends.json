@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:57:07.134732+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-04-08T18:47:51.134530+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 17时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 18时47分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时47分]"
         },
         {
           "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
@@ -71,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 17时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -124,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 17时57分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 18时47分]"
         }
       ]
     }
