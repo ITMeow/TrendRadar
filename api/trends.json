@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T13:44:48.787328+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-04-09T15:15:58.249304+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "Anthropic未能暂时阻止五角大楼将其列入黑名单",
