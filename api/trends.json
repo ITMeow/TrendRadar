@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T19:43:43.724360+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-04-09T20:54:01.308244+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时01分 ~ 19时43分]"
+        },
+        {
+          "title": "如何看待 Anthropic 的新模型 Mythos？",
+          "url": "https://www.zhihu.com/question/2025035806335596432",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "Anthropic未能暂时阻止五角大楼将其列入黑名单",
