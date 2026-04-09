@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T18:05:42.070714+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-04-09T19:43:43.724360+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -89,11 +89,12 @@
             21,
             30,
             18,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 18时05分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 19时43分]"
         },
         {
           "title": "Anthropic未能暂时阻止五角大楼将其列入黑名单",
