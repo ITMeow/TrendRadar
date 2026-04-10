@@ -1,163 +1,44 @@
 {
-  "generated_at": "2026-04-09T23:01:49.721755+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-04-10T09:11:35.348688+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时05分]"
-        },
-        {
-          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
-          "url": "https://wallstreetcn.com/livenews/3084971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174337065800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174200315800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
-          "url": "https://flash.jin10.com/detail/20260409221331312800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        }
-      ]
-    },
     {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 3,
       "titles": [
         {
-          "title": "Claude防话痨插件爆火",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21,
-            30,
-            18,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 19时43分]"
-        },
-        {
-          "title": "如何看待 Anthropic 的新模型 Mythos？",
-          "url": "https://www.zhihu.com/question/2025035806335596432",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 23时01分]"
-        },
-        {
-          "title": "Anthropic未能暂时阻止五角大楼将其列入黑名单",
-          "url": "https://flash.jin10.com/detail/20260409082411155800",
+          "title": "Anthropic新AI太强 美联储和财政部召开紧急会议",
+          "url": "https://flash.jin10.com/detail/20260410084126391800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent agent",
-      "match_count": 2,
-      "titles": [
+          "time_info": "09时11分"
+        },
         {
-          "title": "腾讯发布QClaw V2大版本：支持多Agent、应用连接器、龙虾管家",
-          "url": "https://wallstreetcn.com/livenews/3084954",
+          "title": "美国财长贝森特召集华尔街CEO们讨论Anthropic的AI模型Mythos",
+          "url": "https://wallstreetcn.com/livenews/3085414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时05分]"
-        },
-        {
-          "title": "淘宝闪购商家端AI Agent全量上线语音搜索功能",
-          "url": "https://flash.jin10.com/detail/20260409110521204800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "美国财长贝森特召集华尔街CEO讨论Anthropico公司的新一代超强模型Mythos。",
+          "url": "https://flash.jin10.com/detail/20260410082843106800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     }
