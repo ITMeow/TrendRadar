@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:19:12.878155+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-10T19:39:05.536669+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 19时39分]"
         },
         {
           "title": "Anthropic新AI太强 美联储和财政部召开紧急会议",
