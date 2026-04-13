@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T20:55:53.264669+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-04-13T22:27:27.567680+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -43,9 +43,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛CEO David Solomon：公司正与Anthropic密切合作，利用对方的Mythos模型。",
+          "url": "https://wallstreetcn.com/livenews/3087014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     }
