@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-04-13T22:27:27.567680+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-14T09:16:23.222734+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "kimi都这么大了",
-          "url": "https://s.weibo.com/weibo?q=%23kimi%E9%83%BD%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 17时24分]"
-        },
-        {
-          "title": "林志颖16岁儿子Kimi正脸照曝光",
-          "url": "https://www.toutiao.com/trending/7628057491691290630/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "AI Agent agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "据CNBC：OpenAI在备忘录中盛赞与亚马逊(AMZN.O)的联盟，称微软(MSFT.O)“限制了其触达客户的能力”。",
-          "url": "https://flash.jin10.com/detail/20260413203327986800",
-          "source": "金十数据",
+          "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+          "url": "https://wallstreetcn.com/articles/3769838",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛CEO David Solomon：公司正与Anthropic密切合作，利用对方的Mythos模型。",
-          "url": "https://wallstreetcn.com/livenews/3087014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "09时16分"
         }
       ]
     }
