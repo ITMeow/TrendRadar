@@ -1,125 +1,22 @@
 {
-  "generated_at": "2026-04-14T22:45:26.654416+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-04-15T09:14:22.203678+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Agent agent",
-      "match_count": 4,
+      "keyword_group": "anthropic claude claude code claude skills",
+      "match_count": 1,
       "titles": [
         {
-          "title": "腾讯云率先支持Hermes Agent云端快速部署",
-          "url": "https://flash.jin10.com/detail/20260414160730290800",
-          "source": "金十数据",
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
-          "url": "https://wallstreetcn.com/articles/3769838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 18时05分]"
-        },
-        {
-          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://wallstreetcn.com/livenews/3087702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 20时55分]"
-        },
-        {
-          "title": "市场消息：甲骨文(ORCL.N)将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://flash.jin10.com/detail/20260414194229713800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时32分]"
-        },
-        {
-          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
-          "url": "https://www.zhihu.com/question/2024505845799556342",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
-          "url": "https://wallstreetcn.com/livenews/3087448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "OpenAI投资者质疑其8520亿美元估值，称其战略正在转变。一些OpenAI投资者表示，这些变化可能会使OpenAI容易受到Anthropic和谷歌的威胁。",
-          "url": "https://flash.jin10.com/detail/20260414120312885800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "09时14分"
         }
       ]
     },
@@ -132,11 +29,11 @@
           "url": "https://wallstreetcn.com/articles/3769935",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "09时14分"
         }
       ]
     }
