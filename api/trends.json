@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T14:27:26.180596+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-16T16:20:48.226661+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时20分]"
         },
         {
           "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
           "url": "https://www.zhihu.com/question/2027774064589108421",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 16时20分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "ranks": [
             16,
             26,
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 16时20分]"
         }
       ]
     }
