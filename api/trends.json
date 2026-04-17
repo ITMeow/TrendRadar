@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T20:49:38.560516+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-04-17T22:15:29.370407+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,29 @@
           "url": "https://search.bilibili.com/all?keyword=Hermes%20Agent%E5%AE%98%E6%96%B9%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%92%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 22时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Kimi Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek研究员入职字节，李亮：没招聘近亿元年薪技术员工，但不排除四年后收益数亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "22时15分"
         }
       ]
     }
