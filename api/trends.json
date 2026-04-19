@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T20:32:23.376660+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-19T21:52:26.568149+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,28 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 20时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 21时52分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 21时52分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -32,21 +49,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时41分 ~ 18时29分]"
-        },
-        {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 20时32分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -104,11 +106,40 @@
           "url": "https://www.zhihu.com/question/2029139595183367444",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260419210244122800",
+          "source": "金十数据",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
+        },
+        {
+          "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3090615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
