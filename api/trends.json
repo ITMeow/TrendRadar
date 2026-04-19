@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-04-19T16:01:14.148284+08:00",
-  "total_titles_processed": 624,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-04-19T16:50:37.591772+08:00",
+  "total_titles_processed": 680,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
@@ -19,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -32,8 +30,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时50分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时50分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -47,28 +57,17 @@
           "time_info": "09时18分"
         },
         {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时01分]"
-        },
-        {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
           "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -90,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 16时50分]"
         }
       ]
     },
