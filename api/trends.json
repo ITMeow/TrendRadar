@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:30:58.498749+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-04-25T20:35:03.036115+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时26分 ~ 20时35分]"
         },
         {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时12分 ~ 19时30分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 20时35分]"
         },
         {
           "title": "Deepseek V4第一波测评来了！",
@@ -89,8 +89,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时26分 ~ 20时35分]"
+        },
+        {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 20时35分]"
         },
         {
           "title": "百度智能云上线DeepSeek-V4",
@@ -200,17 +212,6 @@
           "time_info": "14时14分"
         },
         {
-          "title": "DeepSeekV4 尺度",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
           "title": "DeepSeek V4适配国产芯片",
           "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -312,11 +313,12 @@
             8,
             11,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时26分 ~ 20时35分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
@@ -374,8 +376,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时14分 ~ 19时30分]"
+          "appearance_count": 10,
+          "time_info": "[14时14分 ~ 20时35分]"
         }
       ]
     }
