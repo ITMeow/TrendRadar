@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T20:35:03.036115+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-04-25T21:56:26.707007+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeekV4更新了啥",
@@ -89,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 20时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时56分]"
         },
         {
           "title": "DeepSeekV4 尺度",
@@ -234,6 +234,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
@@ -314,11 +325,12 @@
             11,
             13,
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 20时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时56分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
@@ -376,8 +388,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时14分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[14时14分 ~ 21时56分]"
         }
       ]
     }
