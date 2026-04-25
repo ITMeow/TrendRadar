@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-04-25T12:26:18.310135+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-04-25T14:14:29.612428+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "DeepSeekV4更新了啥",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 14时14分]"
+        },
+        {
+          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
+          "url": "https://www.zhihu.com/question/2031152992817243775",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "14时14分"
+        },
+        {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 14时14分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -24,34 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时26分]"
-        },
-        {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时26分]"
-        },
-        {
-          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
-          "url": "https://wallstreetcn.com/articles/3770793",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 14时14分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -59,11 +61,25 @@
           "source": "抖音",
           "ranks": [
             11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 14时14分]"
+        },
+        {
+          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
+          "url": "https://wallstreetcn.com/articles/3770793",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 14时14分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -78,6 +94,29 @@
           "time_info": "[09时12分 ~ 12时26分]"
         },
         {
+          "title": "DeepSeek-V4“解锁”国产芯片",
+          "url": "https://www.toutiao.com/trending/7632342182602477065/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 14时14分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 14时14分]"
+        },
+        {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
           "url": "https://www.cls.cn/detail/2354937",
           "source": "财联社热门",
@@ -89,15 +128,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "DeepSeek-V4“解锁”国产芯片",
-          "url": "https://www.toutiao.com/trending/7632342182602477065/",
-          "source": "今日头条",
+          "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425130344279800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "14时14分"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -122,15 +161,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
+          "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
+          "url": "https://flash.jin10.com/detail/20260425121506864800",
+          "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "14时14分"
         },
         {
           "title": "DeepSeek V4适配国产芯片",
@@ -139,7 +178,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -189,7 +228,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -235,6 +274,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "anthropic claude claude code claude skills",
       "match_count": 1,
       "titles": [
@@ -243,11 +299,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 14时14分]"
         }
       ]
     }
