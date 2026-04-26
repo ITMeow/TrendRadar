@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:32:09.111082+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-04-26T20:36:41.232175+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek V4全面评测",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 20时36分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -56,11 +56,12 @@
             7,
             12,
             15,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -82,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 20时36分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -95,11 +96,12 @@
             7,
             8,
             12,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 20时36分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -165,6 +167,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "DeepSeek多位核心骨干离职去大厂",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "DeepSeek在等一个更大的爆点",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9C%A8%E7%AD%89%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E7%88%86%E7%82%B9",
           "source": "百度热搜",
@@ -228,11 +241,12 @@
             12,
             13,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 20时36分]"
         }
       ]
     }
