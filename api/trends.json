@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-04-26T21:58:16.535793+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-04-26T22:38:16.175461+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 16,
       "titles": [
-        {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 21时58分]"
-        },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
           "url": "https://wallstreetcn.com/articles/3770911",
@@ -33,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时53分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 22时38分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -46,8 +31,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 21时58分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 22时38分]"
+        },
+        {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11,
+            6,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 22时38分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -72,11 +73,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时35分 ~ 22时38分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -131,8 +133,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时38分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -248,8 +250,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 21时58分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 22时38分]"
         }
       ]
     }
