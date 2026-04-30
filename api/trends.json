@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T17:59:23.341714+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-04-30T19:25:52.835847+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -19,17 +19,29 @@
           "time_info": "[09时29分 ~ 09时31分]"
         },
         {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
             15,
             18,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 17时59分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 19时25分]"
         },
         {
           "title": "阿里千问宣布开源Qwen-Scope",
@@ -38,7 +50,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -49,7 +61,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -68,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 19时25分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -80,25 +92,26 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 19时25分]"
         },
         {
           "title": "谷歌入驻广州珠江新城",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时25分]"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude claude code claude skills",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Anthropic提议允许另外70家公司使用其Mythos资源，白宫反对Anthropic扩大Mythos用户范围的计划。（华尔街日报）",
@@ -110,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
