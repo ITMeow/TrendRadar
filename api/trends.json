@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T13:32:06.892569+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-05-01T15:57:13.608275+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时57分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -27,19 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时57分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时57分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -67,18 +68,19 @@
     },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek多模态正式发布",
           "url": "https://www.douyin.com/hot/2485029",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时57分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -86,11 +88,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时57分]"
         },
         {
           "title": "全面测评DeepSeek V4",
@@ -113,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -157,8 +171,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时57分]"
         }
       ]
     }
