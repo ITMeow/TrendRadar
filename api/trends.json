@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T20:40:33.994127+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-05-02T22:03:57.923271+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时03分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
