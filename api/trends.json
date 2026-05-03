@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:42:59.155052+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-05-03T19:34:16.647685+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 19时34分]"
         },
         {
           "title": "DeepSeek评世界杯转播权僵局",
