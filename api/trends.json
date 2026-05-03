@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T13:19:54.512763+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-03T15:44:39.521077+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
         {
           "title": "DeepSeek评世界杯转播权僵局",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E5%83%B5%E5%B1%80%23&t=31&band_rank=29&Refer=top",
