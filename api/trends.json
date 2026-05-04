@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-04T18:53:30.207001+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-05-04T20:16:59.367539+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini nano banana",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国政府正在寻求方法，以帮助加快对谷歌TPU的类似审批流程。",
+          "url": "https://flash.jin10.com/detail/20260504200225855800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
         {
           "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
           "url": "https://wallstreetcn.com/articles/3771528",
@@ -14,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -31,11 +42,12 @@
           "ranks": [
             27,
             13,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 16时12分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 20时16分]"
         }
       ]
     }
