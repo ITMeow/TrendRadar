@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-04T16:12:14.970990+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-05-04T18:53:30.207001+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini nano banana",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek Kimi Qwen",
       "match_count": 1,
